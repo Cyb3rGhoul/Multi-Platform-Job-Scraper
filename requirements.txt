@@ -1,0 +1,17 @@
+# Web Scraping
+selenium==4.15.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Data Processing
+pandas==2.1.4
+
+# HTML Parsing
+lxml==4.9.3
+
+# Additional dependencies
+urllib3==2.1.0
+certifi==2023.11.17
+
+# Optional: For better performance
+webdriver-manager==4.0.1
